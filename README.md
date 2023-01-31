@@ -3,5 +3,5 @@
 - I graduate from Newcastle Univercity in BSc Computer Game Engineering.
 - Currently I am studying MSc Computer Game Engineering in Newcastle Univercity.
 - Game developer & programmer (C++ / C#)
-- I am interested in Graphics programming
-- FPS lover
+- Interested in Graphics programming
+- Big fan of FPS games
