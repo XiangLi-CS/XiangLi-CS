@@ -4,4 +4,4 @@
 - Currently I am studying MSc Computer Game Engineering in Newcastle University.
 - Game developer & programmer (C++ / C#)
 - Interested in Graphics programming
-- Big fan of FPS games
+- Big fan of FPS and Racing games
